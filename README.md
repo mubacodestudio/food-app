@@ -1,4 +1,7 @@
 ### FRONTEND
-##Nextjs, Tailwindcss
+
+## Nextjs, Tailwindcss
+
 ### BACKEND
+
 ## Rust, Axum
